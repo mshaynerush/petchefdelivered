@@ -417,8 +417,8 @@ button
     border-radius: 5px;
 }
 
-@media and only screen(max-width: 780px){
-    header
+@media only screen and (max-width: 780px){
+    header, nav. header-section
     {
         display: none;   
     }
