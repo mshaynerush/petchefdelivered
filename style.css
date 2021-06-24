@@ -416,3 +416,10 @@ button
     background-color: #92eea0;
     border-radius: 5px;
 }
+
+@media and only screen(max-width: 780px){
+    header
+    {
+        display: none;   
+    }
+}
